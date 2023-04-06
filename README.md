@@ -10,4 +10,4 @@ Site is live ✨ - https://power-outage-somewhere.netlify.app/
 
 ## Original Page
 
-Site link : https://power-outages-mauritius.netlify.app/
+Site live : https://power-outages-mauritius.netlify.app/
