@@ -623,6 +623,10 @@ h1, h2 {
   border-end-end-radius: 1.5rem;
 }
 
+.rounded-tl-3xl {
+  border-top-left-radius: 1.5rem;
+}
+
 .border-transparent {
   border-color: transparent;
 }
